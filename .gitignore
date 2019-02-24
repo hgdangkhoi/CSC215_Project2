@@ -1,3 +1,6 @@
 #ignore json and tsv files
 *.json
 *.tsv
+
+#ignore notebook checkpoint
+.ipynb_checkpoints
